@@ -44,3 +44,5 @@
 [2026-06-15 00:00:05] 백업 완료 → /mnt/d/data_backup/all_databases_20260615_0000.sql.gz
 [2026-06-22 00:00:01] 전체 DB 백업 시작
 [2026-06-22 00:00:01] 백업 완료 → /mnt/d/data_backup/all_databases_20260622_0000.sql.gz
+[2026-06-29 00:00:05] 전체 DB 백업 시작
+[2026-06-29 00:00:05] 백업 완료 → /mnt/d/data_backup/all_databases_20260629_0000.sql.gz
