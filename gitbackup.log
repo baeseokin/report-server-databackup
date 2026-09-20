@@ -106,3 +106,8 @@ To https://github.com/baeseokin/report-server-databackup.git
  create mode 100644 all_databases_20260907_0000.sql.gz
 To https://github.com/baeseokin/report-server-databackup.git
    892544c..abb73b1  main -> main
+[main 43f06fe] Weekly Auto Backup 2026-09-14
+ 4 files changed, 10 insertions(+)
+ create mode 100644 all_databases_20260914_0000.sql.gz
+To https://github.com/baeseokin/report-server-databackup.git
+   abb73b1..43f06fe  main -> main

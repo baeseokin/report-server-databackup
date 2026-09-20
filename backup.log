@@ -70,3 +70,7 @@
 [2026-09-07 00:00:06] 백업 완료 → /mnt/d/data_backup/all_databases_20260907_0000.sql.gz
 [2026-09-14 00:00:05] 전체 DB 백업 시작
 [2026-09-14 00:00:06] 백업 완료 → /mnt/d/data_backup/all_databases_20260914_0000.sql.gz
+[2026-09-20 11:12:13] 전체 DB 백업 시작
+[2026-09-20 11:12:13] 백업 완료 → /mnt/d/data_backup/all_databases_20260920_1112.sql.gz
+[2026-09-21 00:00:01] 전체 DB 백업 시작
+[2026-09-21 00:00:05] 백업 완료 → /mnt/d/data_backup/all_databases_20260921_0000.sql.gz
