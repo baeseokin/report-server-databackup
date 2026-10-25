@@ -86,3 +86,39 @@
 [2026-10-12 00:00:05] 백업 완료 → /mnt/d/data_backup/all_databases_20261012_0000.sql.gz
 [2026-10-19 00:00:01] 전체 DB 백업 시작
 [2026-10-19 00:00:02] 백업 완료 → /mnt/d/data_backup/all_databases_20261019_0000.sql.gz
+==================================================
+[2026-10-23 21:41:00] 개별 DB 백업 시작 (User: backup_admin, Host: localhost:32006)
+ -> [assetdb] 덤프 진행 중...
+    └─ assetdb_20261023_2140.sql.gz 백업 완료
+ -> [reportdb] 덤프 진행 중...
+    └─ reportdb_20261023_2140.sql.gz 백업 완료
+ -> [roomdb] 덤프 진행 중...
+    └─ roomdb_20261023_2140.sql.gz 백업 완료
+[2026-10-23 21:41:00] 모든 DB 백업 성공 -> /mnt/d/data_backup
+==================================================
+[2026-10-23 21:53:22] 개별 DB 백업 시작 (User: backup_admin, Host: localhost:32006)
+ -> [assetdb] 덤프 진행 중...
+    └─ assetdb_20261023_2153.sql.gz 백업 완료
+ -> [reportdb] 덤프 진행 중...
+    └─ reportdb_20261023_2153.sql.gz 백업 완료
+ -> [roomdb] 덤프 진행 중...
+    └─ roomdb_20261023_2153.sql.gz 백업 완료
+[2026-10-23 21:53:22] 모든 DB 백업 성공 -> /mnt/d/data_backup
+==================================================
+[2026-10-24 16:38:25] 개별 DB 백업 시작 (User: backup_admin, Host: localhost:32006)
+ -> [assetdb] 덤프 진행 중...
+    └─ assetdb_20261024_1638.sql.gz 백업 완료
+ -> [reportdb] 덤프 진행 중...
+    └─ reportdb_20261024_1638.sql.gz 백업 완료
+ -> [roomdb] 덤프 진행 중...
+    └─ roomdb_20261024_1638.sql.gz 백업 완료
+[2026-10-24 16:38:26] 모든 DB 백업 성공 -> /mnt/d/data_backup
+==================================================
+[2026-10-26 00:00:05] 개별 DB 백업 시작 (User: backup_admin, Host: localhost:32006)
+ -> [assetdb] 덤프 진행 중...
+    └─ assetdb_20261026_0000.sql.gz 백업 완료
+ -> [reportdb] 덤프 진행 중...
+    └─ reportdb_20261026_0000.sql.gz 백업 완료
+ -> [roomdb] 덤프 진행 중...
+    └─ roomdb_20261026_0000.sql.gz 백업 완료
+[2026-10-26 00:00:06] 모든 DB 백업 성공 -> /mnt/d/data_backup
