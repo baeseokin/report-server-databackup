@@ -140,3 +140,57 @@ To https://github.com/baeseokin/report-server-databackup.git
 warning: redirecting to https://github.com/baeseokin/report-server-databackup.git/
 To https://github.com/baeseokin/report-server-databackup.git
    1271240..f138aa9  main -> main
+[main 26b6e9c] Weekly Auto Backup 2026-10-26
+ 53 files changed, 51 insertions(+)
+ delete mode 100644 all_databases_20260201_1637.sql.gz
+ delete mode 100644 all_databases_20260202_0000.sql.gz
+ delete mode 100644 all_databases_20260209_0000.sql.gz
+ delete mode 100644 all_databases_20260216_0000.sql.gz
+ delete mode 100644 all_databases_20260223_0000.sql.gz
+ delete mode 100644 all_databases_20260302_0000.sql.gz
+ delete mode 100644 all_databases_20260309_0000.sql.gz
+ delete mode 100644 all_databases_20260316_0000.sql.gz
+ delete mode 100644 all_databases_20260323_0000.sql.gz
+ delete mode 100644 all_databases_20260330_0000.sql.gz
+ delete mode 100644 all_databases_20260406_0000.sql.gz
+ delete mode 100644 all_databases_20260413_0000.sql.gz
+ delete mode 100644 all_databases_20260420_0000.sql.gz
+ delete mode 100644 all_databases_20260425_2040.sql.gz
+ delete mode 100644 all_databases_20260427_0000.sql.gz
+ delete mode 100644 all_databases_20260504_0000.sql.gz
+ delete mode 100644 all_databases_20260511_0000.sql.gz
+ delete mode 100644 all_databases_20260518_0000.sql.gz
+ delete mode 100644 all_databases_20260525_0000.sql.gz
+ delete mode 100644 all_databases_20260601_0000.sql.gz
+ delete mode 100644 all_databases_20260608_0000.sql.gz
+ delete mode 100644 all_databases_20260615_0000.sql.gz
+ delete mode 100644 all_databases_20260622_0000.sql.gz
+ delete mode 100644 all_databases_20260629_0000.sql.gz
+ delete mode 100644 all_databases_20260706_0000.sql.gz
+ delete mode 100644 all_databases_20260713_0000.sql.gz
+ delete mode 100644 all_databases_20260720_0000.sql.gz
+ delete mode 100644 all_databases_20260727_0000.sql.gz
+ delete mode 100644 all_databases_20260803_0000.sql.gz
+ delete mode 100644 all_databases_20260810_0000.sql.gz
+ delete mode 100644 all_databases_20260817_0000.sql.gz
+ delete mode 100644 all_databases_20260824_0000.sql.gz
+ delete mode 100644 all_databases_20260831_0000.sql.gz
+ delete mode 100644 all_databases_20260906_2310.sql.gz
+ delete mode 100644 all_databases_20260907_0000.sql.gz
+ delete mode 100644 all_databases_20260914_0000.sql.gz
+ delete mode 100644 all_databases_20260920_1112.sql.gz
+ delete mode 100644 all_databases_20260921_0000.sql.gz
+ create mode 100644 assetdb_20261023_2140.sql.gz
+ create mode 100644 assetdb_20261023_2153.sql.gz
+ create mode 100644 assetdb_20261024_1638.sql.gz
+ create mode 100644 assetdb_20261026_0000.sql.gz
+ create mode 100644 reportdb_20261023_2140.sql.gz
+ create mode 100644 reportdb_20261023_2153.sql.gz
+ create mode 100644 reportdb_20261024_1638.sql.gz
+ create mode 100644 reportdb_20261026_0000.sql.gz
+ create mode 100644 roomdb_20261023_2140.sql.gz
+ create mode 100644 roomdb_20261023_2153.sql.gz
+ create mode 100644 roomdb_20261024_1638.sql.gz
+ create mode 100644 roomdb_20261026_0000.sql.gz
+To https://github.com/baeseokin/report-server-databackup.git
+   f138aa9..26b6e9c  main -> main
